@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<publications>
+
+    <publication>
+        <id>12</id>
+        <titre>bonjour</titre>
+        <nbpages>254</nbpages>
+        <année>2000</année>
+        <conference>c'est une conference</conference>
+            
+        <auteur>
+            <nom>amin</nom>
+            <numtel>22222222</numtel>
+            <adresse>sfax</adresse>
+        </auteur>
+        <auteur>
+            <nom>mounir bensalah </nom>
+            <numtel>23232323</numtel>
+            <adresse>sousse</adresse>
+        </auteur>
+    </publication>
+
+    <publication>
+        <id>12</id>
+        <titre>bonjour</titre>
+        <nbpages>254</nbpages>
+        <année>2000</année>
+        <conference>c'est une conference</conference>
+
+        <auteur>
+            <nom>mounir bensalah</nom>
+            <numtel>23232323</numtel>
+            <adresse>sousse</adresse>
+        </auteur>
+        
+        <auteur>
+            <nom>chaima</nom>
+            <numtel>2222333</numtel>
+            <adresse>sfax</adresse>
+        </auteur>
+    </publication>
+</publications>    
